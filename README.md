@@ -1,0 +1,11 @@
+- 👋 Hi, I’m Kelvin Ducray
+- 💼 I've worked as a Data Scientist & Machine Learning Engineer and currently working a backend software engineering role at an IoT company
+- 👀 I’m interested in:
+  - Data Science
+  - Machine Learning
+    - With a particular interest in Computer Vision
+    - A strong interest in deployments, as well as building logic around model outputs to create a meaningful system
+- 🌱 I’m currently learning:
+  - Go
+- 📫 How to reach me:
+  - kelvin.ducray@gmail.com
