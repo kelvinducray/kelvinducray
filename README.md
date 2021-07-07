@@ -1,5 +1,5 @@
 - 👋   Hi, I’m Kelvin Ducray
-- 💼   I've worked as a Data Scientist & Machine Learning Engineer and currently working a backend software engineering role at an IoT company
+- 💼   I've worked as a Data Scientist & Machine Learning Engineer and currently working a backend software engineering role.
 - 👀   I’m interested in:
   - Data Science
   - Machine Learning
