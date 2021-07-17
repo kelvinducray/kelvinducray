@@ -5,7 +5,5 @@
   - Machine Learning
     - With a particular interest in Computer Vision
     - I also have a very strong interest in deployments (both cloud & at the edge), as well as building logic around model outputs to create a meaningful system
-- 🌱   I’m currently learning:
-  - Golang
 - 📫   How to reach me:
   - kelvin.ducray@gmail.com
