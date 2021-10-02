@@ -1,9 +1,5 @@
-- 👋   Hi, I’m Kelvin Ducray
-- 💼   I've worked as a Data Scientist & Machine Learning Engineer and currently working a backend software engineering role.
-- 👀   I’m interested in:
-  - Data Science
-  - Machine Learning
-    - With a particular interest in Computer Vision
-    - I also have a very strong interest in deployments (both cloud & at the edge), as well as building logic around model outputs to create a meaningful system
-- 📫   How to reach me:
+- 👋 Hi, I’m Kelvin Ducray
+- 💼 I've worked as a Data Scientist & Machine Learning Engineer and currently working as a backend Python developer
+- 📚 Studied Statistics & Economics (dual degree undergrad), and am now Studying a Masters of Applied Artificial Intelligence
+- 📫 How to reach me:
   - kelvin.ducray@gmail.com
